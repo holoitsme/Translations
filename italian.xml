@@ -3,109 +3,109 @@
     <!-- Notifications -->
     <string name="notifications_setting_title">NOTIFICHE</string>
     <string name="notif">Notifiche</string>
-    <string name="applying_changes">Applying changes</string>
-    <string name="sync_problem">Cookies cannot be synced. First run, yeah? Please just restart the app :)</string>
-    <string name="notification_sound_description">Choose a ringtone or silence: \u0020</string>
+    <string name="applying_changes">Applicazione modifiche</string>
+    <string name="sync_problem">I cookie non possono essere sincronizzati. Primo avvio? Niente paura, riavvia l\'app :)</string>
+    <string name="notification_sound_description">Scegli una suoneria: \u0020</string>
     <string name="notifications_settings">Notifiche Impostazioni</string>
-    <string name="notifications_settings_description">Additional settings. Choose time interval, set up sounds, LED and vibration.</string>
-    <string name="facebook_notifications">Facebook Notifiche</string>
-    <string name="facebook_message">Facebook messagges</string>
-    <string name="interval_pref">Time interval for checking</string>
-    <string name="notification_sound">Notification sound</string>
-    <string name="interval_pref_description_new">Notifications will be checked every %s.</string>
-    <string name="notification_sound_msg">Message sound</string>
+    <string name="notifications_settings_description">Impostazioni aggiuntive. Scegli intervallo di tempo, imposta suoni, LED e vibrazione.</string>
+    <string name="facebook_notifications">Notifiche Facebook</string>
+    <string name="facebook_message">Messaggi Facebook</string>
+    <string name="interval_pref">Intervallo di aggiornamento delle notifiche</string>
+    <string name="notification_sound">Suono di notifica</string>
+    <string name="interval_pref_description_new">Le notifiche saranno controllate ogni %s.</string>
+    <string name="notification_sound_msg">Suono messaggi </string>
     <string name="vibrate">Vibrazione</string>
-    <string name="led_light">LED light</string>
+    <string name="led_light">LED</string>
     <string-array name="intervalPrefTitles">
         <item>1 minuto</item>
-        <item>2 minutos</item>
-        <item>5 minutos</item>
-        <item>15 minutos</item>
-        <item>30 minutos</item>
-        <item>1 hora</item>
-        <item>3 horas</item>
-        <item>6 horas</item>
+        <item>2 minuti</item>
+        <item>5 minuti</item>
+        <item>15 minuti</item>
+        <item>30 minuti</item>
+        <item>1 ora</item>
+        <item>3 ore</item>
+        <item>6 ore</item>
     </string-array>
     <!-- End Notifications -->
 
     <!-- General -->
-    <string name="general_setting_title">GENERAL</string>
+    <string name="general_setting_title">GENERALI</string>
     <string name="location_enabled_title">Accesso alla posizione</string>
-    <string name="location_enabled_summary">Attivala per permettere a Toffeed di ottenere la tua posizione.</string>
+    <string name="location_enabled_summary">Attivala per permettere a MaterialFBook di ottenere la tua posizione.</string>
     <string name="hide_editor_newsfeed_title">Nascondi l\'editor di stato nel News Feed</string>
-    <string name="hide_editor_newsfeed_summary">Quando attiva, l\'editor di stato sarà nascosto dal News Feed.</string>
+    <string name="hide_editor_newsfeed_summary">Se attiva, l\'editor di stato sarà nascosto dal News Feed.</string>
     <string name="stop_images_title">Non visualizzare le immagini</string>
-    <string name="stop_images_summary">Quando attiva, non verranno visualizzate le immagini. Alcune immagini potrebbero rimanere nella cache.</string>
+    <string name="stop_images_summary">Se attiva, non verranno visualizzate le immagini. Alcune immagini potrebbero rimanere nella cache.</string>
     <string name="hide_sponsored_title">Nascondi Contenuti &#8220;Sponsorizzati&#8221;</string>
-    <string name="hide_sponsored_summary">Quando attiva, verrà nascosta la pubblicità nel News Feed.</string>
-    <string name="hide_birthdays_title">Hide Birthdays</string>
-    <string name="hide_birthdays_summary">When enabled, will hide birthdays from the News Feed.</string>
-    <string name="clearcache">Clear cache on exit</string>
-    <string name="clearcache_summary">It will take more time to open the app.</string>
-    <string name="hide_recently_commented">Hide recently commented</string>
-    <string name="hide_recently_commented_summary">X people recently commented on this.</string>
+    <string name="hide_sponsored_summary">Se attiva, verrà nascosta la pubblicità nel News Feed.</string>
+    <string name="hide_birthdays_title">Nascondi Compleanni</string>
+    <string name="hide_birthdays_summary">Se attiva, verranno nascosti i compleanni nel News Feed.</string>
+    <string name="clearcache">Pulisci la cache chiudendo l\'app</string>
+    <string name="clearcache_summary">Ci vorrà più tempo ad aprire l\'app.</string>
+    <string name="hide_recently_commented">Nascondi commenti recenti</string>
+    <string name="hide_recently_commented_summary">X di recente ha commentato questo elemento.</string>
     <string name="start_url">Start URL</string>
     <string-array name="Start">
-        <item>MostRecent</item>
+        <item>PiùRecenti</item>
         <item>TopStories</item>
-        <item>Messages</item>
+        <item>Messaggi</item>
     </string-array>
     <!-- End general -->
 
     <!-- Appearence -->
-    <string name="appearance_setting_title">APPEARANCE</string>
-    <string name="web_themes">Web themes</string>
-    <string name="web_themes_summary">You can choose different web themes.</string>
-    <string name="app_themes">App themes</string>
-    <string name="app_themes_summary">You can choose different app themes.</string>
+    <string name="appearance_setting_title">ASPETTO</string>
+    <string name="web_themes">Temi web</string>
+    <string name="web_themes_summary">Puoi scegliere tra diversi temi web.</string>
+    <string name="app_themes">Temi app</string>
+    <string name="app_themes_summary">Puoi scegliere tra diversi temi app.</string>
 
     <!-- Navigation -->
-    <string name="navigation_setting_title">NAVIGATION</string>
-    <string name="hide_menu_bar_title">Hide Menu bar</string>
-    <string name="hide_menu_bar_summary">When enabled, the Facebook Menu bar will be hidden.</string>
-    <string name="navigation_menu_settings">Navigation menu items</string>
-    <string name="navigation_menu_settings_description">You can show/hide items in the navigation menu.</string>
-    <string name="save_data">Save data</string>
-    <string name="save_data_summary">When enabled, the app autoconfigure to save data</string>
+    <string name="navigation_setting_title">NAVIGAZIONE</string>
+    <string name="hide_menu_bar_title">Nascondi la barra del Menu</string>
+    <string name="hide_menu_bar_summary">Se attiva, La barra del Menu di Facebook verrà nascosta.</string>
+    <string name="navigation_menu_settings">Oggetti del menu di navigazione</string>
+    <string name="navigation_menu_settings_description">Puoi mostrare/nascondere gli oggetti nel menu di navigazione.</string>
+    <string name="save_data">Risparmio dati</string>
+    <string name="save_data_summary">Se attivato, l\'app si configurerà in modo da risparmiare dati</string>
     <string name="fab_enable">Floating Action Button</string>
-    <string name="fab_enable_summary">Show the FAB.</string>
+    <string name="fab_enable_summary">Mostra il FAB.</string>
     <!-- Navigation: fab -->
     <string name="fab_text">Condividi uno stato</string>
     <string name="fab_photo">Condividi una foto</string>
     <string name="fab_checkin">Condividi posizione</string>
     <string name="fab_jump_top">Torna in Alto</string>
     <!-- Navigation: items -->
-    <string name="navigation_menu_title">NAVIGATION MENU</string>
-    <string name="ic_menu_exitapp">Exit app</string>
-    <string name="ic_menu_exitapp_summary">Hide &#8216;Exit app&#8217; button on navigation drawer.</string>
+    <string name="navigation_menu_title">MENU DI NAVIGAZIONE</string>
+    <string name="ic_menu_exitapp">Esci dall\'app</string>
+    <string name="ic_menu_exitapp_summary">Nascondi il pulsante &#8216;Esci dall\'app&#8217; dal navigation drawer.</string>
     <string name="ic_menu_fblogout">Log out</string>
-    <string name="ic_menu_fblogout_summary">Hide &#8216;Log out&#8217; button on navigation drawer.</string>
-    <string name="menu_photos">Photos</string>
-    <string name="menu_photos_summary">Hide &#8216;Photos&#8217; button on navigation drawer.</string>
-    <string name="menu_events">Events</string>
-    <string name="menu_events_summary">Hide &#8216;Events&#8217; button on navigation drawer.</string>
-    <string name="menu_back">Back</string>
-    <string name="menu_back_summary">Hide &#8216;Back&#8217; button on navigation drawer.</string>
+    <string name="ic_menu_fblogout_summary">Nascondi il pulsante &#8216;Log out&#8217; dal navigation drawer.</string>
+    <string name="menu_photos">Foto</string>
+    <string name="menu_photos_summary">Nascondi il pulsante &#8216;Foto&#8217; dal navigation drawer.</string>
+    <string name="menu_events">Eventi</string>
+    <string name="menu_events_summary">Nascondi il pulsante &#8216;Eventi&#8217; dal navigation drawer.</string>
+    <string name="menu_back">Indietro</string>
+    <string name="menu_back_summary">Nascondi il pulsante &#8216;Indietro&#8217; dal navigation drawer.</string>
     <string name="menu_top_stories">Top stories</string>
-    <string name="menu_top_stories_summary">Hide &#8216;Top stories&#8217; button on navigation drawer.</string>
-    <string name="menu_most_recent">Most Recent</string>
-    <string name="menu_most_recent_summary">Hide &#8216;Most Recent&#8217; button on navigation drawer.</string>
-    <string name="menu_friendreq">Friend Requests</string>
-    <string name="menu_friendreq_summary">Hide &#8216;Friend Requests&#8217; button on navigation drawer.</string>
-    <string name="menu_groups">Groups</string>
-    <string name="menu_groups_summary">Hide &#8216;Groups&#8217; button on navigation drawer.</string>
-    <string name="menu_messages">Messages</string>
-    <string name="menu_search">Search</string>
-    <string name="menu_search_summary">Hide &#8216;Search&#8217; button on navigation drawer.</string>
-    <string name="menu_mainmenu">Main menu</string>
-    <string name="menu_mainmenu_summary">Hide &#8216;Main menu&#8217; button on navigation drawer.</string>
-    <string name="messaging_enabled_title">Messaging</string>
-    <string name="messaging_enabled_summary">When enabled, will provide access to Facebook Messages. Disable if you have a messaging app.</string>
+    <string name="menu_top_stories_summary">Nascondi il pulsante &#8216;Top stories&#8217; dal navigation drawer.</string>
+    <string name="menu_most_recent">Più Recenti</string>
+    <string name="menu_most_recent_summary">Nascondi il pulsante &#8216;Più recenti&#8217; dal navigation drawer.</string>
+    <string name="menu_friendreq">Richieste di amicizia</string>
+    <string name="menu_friendreq_summary">Nascondi il pulsante &#8216;Richieste di amicizia&#8217; dal navigation drawer.</string>
+    <string name="menu_groups">Gruppi</string>
+    <string name="menu_groups_summary">Nascondi il pulsante &#8216;Gruppi&#8217; dal navigation drawer.</string>
+    <string name="menu_messages">Messaggi</string>
+    <string name="menu_search">Cerca</string>
+    <string name="menu_search_summary">Nascondi il pulsante &#8216;Cerca&#8217; dal navigation drawer.</string>
+    <string name="menu_mainmenu">Menu principale</string>
+    <string name="menu_mainmenu_summary">Nascondi il pulsante &#8216;Menu principale&#8217; dal navigation drawer.</string>
+    <string name="messaging_enabled_title">Messenger</string>
+    <string name="messaging_enabled_summary">Se attivo, consente di accedere a Facebook Messenger. Disabilita sei hai un\'app dedicata.</string>
     <!-- End navigation -->
 
     <!-- App -->
-    <string name="silent">No sound</string>
-    <string name="file_logger_needs_permission">No access to external storage. Log cannot be saved</string>
+    <string name="silent">Silenzioso</string>
+    <string name="file_logger_needs_permission">Accesso alla memoria esterna non consentito. Il log non può essere salvato</string>
     <string name="navigation_drawer_open">Apri navigation drawer</string>
     <string name="navigation_drawer_close">Chiudi navigation drawer</string>
     <string name="default_user">Utente sconosciuto</string>
@@ -132,16 +132,16 @@
     <string name="new_bookmark">Added:</string>
     <string name="remove_bookmark">Removed:</string>
     <!-- About -->
-    <string name="more">More and credits</string>
-    <string name="about_updates">Updates</string>
-    <string name="updates">Check for a new version</string>
-    <string name="updates_summary">Load the page and download the latest version</string>
-    <string name="people_who_translated">Users who translated the app</string>
-    <string name="devs_who_helped_me">Developers who helped me asking my questions and taking code from their apps</string>
-    <string name="help_translations">Help me to translate the app to your language</string>
-    <string name="about_translations">¡Help, we need you!</string>
-    <string name="source_code">Source code on Github</string>
-    <string name="withYou">Report bugs or requst new features</string>
+    <string name="more">Altro e crediti</string>
+    <string name="about_updates">Aggiornamenti</string>
+    <string name="updates">Controlla se è disponibile una nuova versione</string>
+    <string name="updates_summary">Carica la pagina e scarica la nuova versione</string>
+    <string name="people_who_translated">Utenti che hanno contribuito alla traduzione</string>
+    <string name="devs_who_helped_me">Sviluppatori che mi hanno aiutato rispondendo alle mie domande e dandomi parte del codice delle loro app</string>
+    <string name="help_translations">Aiutami a tradurre l\'app nella tua lingua</string>
+    <string name="about_translations">Aiuto, abbiamo bisogno di te!</string>
+    <string name="source_code">Codice sorgente su Github</string>
+    <string name="withYou">Segnala bug o richiedi nuove feature</string>
     <string name="changelog">Changelog</string>
     <!-- End about -->
 
